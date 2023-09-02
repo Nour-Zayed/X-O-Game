@@ -1,0 +1,60 @@
+body{
+    background-color:#92dce5;
+size: 500px;
+}
+
+#content{
+    margin-bottom: 20px;
+   
+}
+#status{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#test1{
+    text-align: center;
+    color: rgb(38, 133, 108);
+}
+
+#board{
+    border-radius: 5px;
+padding:15px ;
+margin: auto;
+max-width: 400;
+text-align: center;
+width: 600px;
+background-color: #c7ccee;
+}
+
+#cell{
+    margin: 10px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+#scoregame{
+    text-align: center;
+    box-sizing: border-box;
+    background-color:#aced77;
+    size: 200px;
+}
+ #scoregame p{
+    width: 25%;
+    margin: 40px;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color:#f87666;
+
+ }
+ #newGame{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+ }
+ #test2{
+box-sizing: border-box; 
+display: inline-block;
+padding: 20px;
+}
